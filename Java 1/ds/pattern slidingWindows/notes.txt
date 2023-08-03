@@ -1,0 +1,22 @@
+Sliding windows approach involves creating a window of a fixed size
+and then moving that data structure one step at time to slve specific 
+data structure 
+
+used in subarray,substring or subsequence that meets certain condition
+-used to optimize time comprexity from O(n^2) to O(n)
+
+            QUESTIONS ON SLIDING WINDOWS
+Maximum Sum Subarray of Fixed Size (Size K):
+Given an array of integers and a fixed window size K, find the maximum sum of any contiguous subarray of size K. The sliding window approach can efficiently solve this problem in O(n) time complexity.
+
+Minimum Window Substring:
+Given a string S and a string T, find the minimum window in S that contains all the characters of T. The sliding window approach can be used to solve this problem in O(n) time complexity.
+
+Longest Substring with K Distinct Characters:
+Given a string S, find the length of the longest substring with at most K distinct characters. The sliding window approach can efficiently solve this problem in O(n) time complexity.
+
+Count Occurrences of Anagrams:
+Given a string S and a pattern P, count the occurrences of P as an anagram in S. The sliding window technique can efficiently solve this problem in O(n) time complexity.
+
+Maximum Points in a Sliding Window:
+Given an array of integers and an integer K, find the maximum points obtained by summing K consecutive elements. The sliding window technique can efficiently solve this problem in O(n) time complexity.
