@@ -12,4 +12,15 @@
 - Tree Breadth First Search
 - Tree Depth First Search
 - Two Heaps
-- Two Pomters
+- Two Pointers
+- BackTracking
+- Greedy Algorithms
+- BitWise Manipulation
+- Trie
+- Union Find
+- HashMaps
+- Graphs
+- Heaps
+- Sorting ALgo
+- Searching algo
+- String Manipulation

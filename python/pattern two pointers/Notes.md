@@ -1,5 +1,6 @@
 # Two Pointers
 -  Two Pointers technique involves maintaining two pointers or references to elements in a data structure.
+- It iterates Over data structures Until a certain condition is Met.It can Iterate in one or both directions
 - These pointers are used to traverse or process data efficiently.
 - Offenly associated with arrays, linked lists, and strings.
 
@@ -26,3 +27,4 @@ Start from the end of the arrays or lists and merge elements in decreasing order
 Use two pointers starting from the ends and swap elements until they meet in the middle.
 ### 4. Container With Most Water
 Utilize two pointers, one at the beginning and one at the end. Calculate the area formed by these two pointers and move the pointer with the shorter height toward the center to search for a potentially larger area.
+<video controls src="two_pointers.mp4" title="Title"></video>
