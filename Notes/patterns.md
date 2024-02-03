@@ -1,0 +1,15 @@
+## Data Structures and algorithms apllication question patterns
+- Fast and Slow Pointers
+- Cyclic Sort 
+- Subsets
+- K-Way Merge
+- Inplace Reversal of a Linked List
+- Modified Binary Search
+- Sliding Windows
+- Subsets
+- Top K elements
+- Topological Sort
+- Tree Breadth First Search
+- Tree Depth First Search
+- Two Heaps
+- Two Pomters
